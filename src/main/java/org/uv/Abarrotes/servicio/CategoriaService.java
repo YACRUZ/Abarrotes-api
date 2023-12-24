@@ -12,7 +12,7 @@ import org.uv.Abarrotes.repositorio.CategoriaRepository;
 
 /**
  *
- * @author loken
+ * @author lokenY
  */
 @Service
 public class CategoriaService {
